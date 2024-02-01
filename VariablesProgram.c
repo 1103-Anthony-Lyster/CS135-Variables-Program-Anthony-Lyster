@@ -3,12 +3,13 @@
 //Purpose: Variables Program
 
 #include <stdio.h>
-int main() {
-    char test1;
-        test1 = B;
-    char test2;
-        test2 = A;
-    char test3;
-        test 3;
-    printf("%c\n", <test1>, "%c\n", <test2>, "%c\n", <test3>);  
+
+int main (){
+  char test1 = 'B';
+  char test2 = 'B';
+  char test3 = 'A';
+  printf ("Test 1 grade: %c\n", test1);
+  printf ("Test 2 grade: %c\n", test2);
+  printf ("Test 3 grade: %c\n", test3);
+  return 0;
 }
